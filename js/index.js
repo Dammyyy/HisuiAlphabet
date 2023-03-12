@@ -9,7 +9,7 @@ const items = [
   {'Id':'', 'Hisui':'EciQO', 'Alt':'天冠の山麓', 'Text':'', 'Image':'imgs/2022012921005500-7CBCCE282CD36658AB28471FB4791102.jpg'},
   {'Id':'', 'Hisui':'mbijF', 'Alt':'純白の凍土', 'Text':'', 'Image':'imgs/2022013000493100-7CBCCE282CD36658AB28471FB4791102.jpg'},
   {'Id':'', 'Hisui':'TiXxV', 'Alt':'古の隠れ里', 'Text':'', 'Image':'imgs/2022021401354300-7CBCCE282CD36658AB28471FB4791102.jpg'},
-  {'Id':'', 'Hisui':'ODXX TG', 'Alt':'キング場(バサギリ)', 'Text':'', 'Image':'imgs/2022012820032300-7CBCCE282CD36658AB28471FB4791102.jpg'},
+  {'Id':'', 'Hisui':'ODXX tG', 'Alt':'キング場(バサギリ)', 'Text':'', 'Image':'imgs/2022012820032300-7CBCCE282CD36658AB28471FB4791102.jpg'},
   {'Id':'', 'Hisui':'ODXX tG', 'Alt':'キング場(ドレディア)', 'Text':'', 'Image':'imgs/2022012913091500-7CBCCE282CD36658AB28471FB4791102.jpg'},
   {'Id':'', 'Hisui':'ODXX tG', 'Alt':'キング場(ウインディ)', 'Text':'', 'Image':'imgs/2022012919055500-7CBCCE282CD36658AB28471FB4791102.jpg'},
   {'Id':'', 'Hisui':'ODXX tG', 'Alt':'キング場(マルマイン)', 'Text':'', 'Image':'imgs/2022012922574700-7CBCCE282CD36658AB28471FB4791102.jpg'},

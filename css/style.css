@@ -83,6 +83,7 @@
 		white-space: pre-line;
 	}
 	#linkmenu {
+		width: 100%;
 		margin: 0 auto 40px;
 		text-align: center;
 		background: #9cabbc;
@@ -91,6 +92,7 @@
 	.linkmenu_inner {
 		width: 960px;
 		margin: 0 auto;
+	    padding: 0 8px;
 		text-align: left;
 	}
 	.linkmenu_inner li {
@@ -309,7 +311,6 @@
 	}
 	.header_inner {
 		width: 100%;
-		margin: 0 auto;
 		text-align: left;
 	}
 	h1 {
@@ -318,6 +319,10 @@
 		color: #fff;
 		line-height: 1.4;
 		text-decoration: none;
+		padding: 0 8px;
+	}
+	.header_contents {
+		padding: 0 8px;
 	}
 	.clearfix {
 		zoom: 1;
@@ -372,7 +377,7 @@
 		border-collapse: collapse;
 		border-spacing: 0;
 		font-size: 11pt;
-		width: unset;
+		width: 100%;
 	}
 
 	table th {
